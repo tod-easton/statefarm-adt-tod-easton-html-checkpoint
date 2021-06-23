@@ -1,31 +1,40 @@
-/* section {
+#mainHeader {
     padding: 50px;
     margin: 20px;
     background-color: blue;
-  } */
+  }
+
+a:hover {
+    background-color: red;
+}
   
   /* p {
     margin: 0;
     background: red;
   } */
 
-  #myParagraph {
+  /* #spock p {
+      background-color: blue;
+  } */
+
+  /* p {
+    display: inline;
+  }  */
+
+  /* #myParagraph {
     position: absolute;
     top: 0;
     left: 0;
-  }
+  } */
   
-  #mySection {
+  /* #mainHeader {
   position: relative;
-}
+} */
 
-#anotherSection p {
+/* #mainHeader {
   float: left;
   margin-left: 10px;
-}
+} */
 
-.clear-it {
-    clear: both;
-  }
   
   
