@@ -1,0 +1,28 @@
+/* styles.css */
+/* div {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+  } */
+  
+  /* div Class targets */
+  .red-text {
+    color: black;
+  }
+  
+  .wow {
+    background-color: blue;
+  }
+
+  a:hover {
+    background-color: red;
+  }
+  
+  /* Reversing defaults for Inline and Block elements */
+  /* a {
+    display: block;
+  }
+  
+  p {
+    display: inline;
+  } */
