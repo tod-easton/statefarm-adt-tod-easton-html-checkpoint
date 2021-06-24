@@ -1,12 +1,18 @@
 #mainHeader {
-    padding: 50px;
-    margin: 20px;
+    padding: 20px;
+    margin: 1px;
     background-color: blue;
   }
 
 a:hover {
     background-color: red;
 }
+
+.comments{
+    /* padding: 50px;
+    margin: 20px; */
+    background-color: yellowgreen;
+  }
   
   /* p {
     margin: 0;
